@@ -1,5 +1,4 @@
 # DataToolsAssignment5
-# Assignment-5 Data Analytics tools
-(Lab6_week8 .ipynb) In this Python file, we will be learning the use of iloc for subsetting a datastet
-We will also be learning how to create functions in python
+# (Assignment1) In this Python file, we will be learning the use of df.describe and transpose function
+
 
